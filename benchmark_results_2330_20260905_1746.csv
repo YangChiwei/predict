@@ -1,0 +1,6 @@
+﻿Stock_ID,Model,Best_Threshold,Test_AUC,Val_AUC,Val_Accuracy,Test_Accuracy,Overfit_Gap,Test_Precision_BUY,Test_Recall_BUY,Test_F1_BUY,Test_Signals_Total,True_Positives,Elapsed_Sec,Status
+2330,LIGHTGBM,0.2939,0.5123,0.5544,0.5382,0.5872,-0.049,0.58,0.95,0.72,311,179,6.8,Success
+2330,CATBOOST,0.2455,0.5029,0.4408,0.4275,0.5262,-0.0987,0.55,0.75,0.63,256,141,2.8,Success
+2330,RF,0.2378,0.4332,0.48,0.4542,0.4913,-0.0371,0.53,0.69,0.6,246,130,13.6,Success
+2330,XGBOOST,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,Failed: 請先安裝 xgboost
+2330,TFT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,"Failed: Found input variables with inconsistent numbers of samples: [262, 222]"
