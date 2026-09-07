@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+2412,中華電,lightgbm,成功,2412_lightgbm_model.pkl,0.06,9.7
+2412,中華電,xgboost,成功,2412_xgboost_model.pkl,0.12,10.6
+2412,中華電,catboost,成功,2412_catboost_model.pkl,0.03,24.5
+2412,中華電,rf,成功,2412_rf_model.pkl,0.19,24.2
+2412,中華電,tft,成功,2412_tft_model.pkl,0.0,94.2

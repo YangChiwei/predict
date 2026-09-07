@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+2615,萬海,lightgbm,成功,2615_lightgbm_model.pkl,0.14,10.0
+2615,萬海,xgboost,成功,2615_xgboost_model.pkl,0.16,11.1
+2615,萬海,catboost,成功,2615_catboost_model.pkl,0.02,22.2
+2615,萬海,rf,成功,2615_rf_model.pkl,0.1,22.9
+2615,萬海,tft,成功,2615_tft_model.pkl,0.0,91.8
