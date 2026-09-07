@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+2382,廣達,lightgbm,成功,2382_lightgbm_model.pkl,0.05,9.7
+2382,廣達,xgboost,成功,2382_xgboost_model.pkl,0.13,11.3
+2382,廣達,catboost,成功,2382_catboost_model.pkl,0.06,24.1
+2382,廣達,rf,成功,2382_rf_model.pkl,0.34,26.9
+2382,廣達,tft,成功,2382_tft_model.pkl,0.0,86.2

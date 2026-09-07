@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+2317,鴻海,lightgbm,成功,2317_lightgbm_model.pkl,0.04,9.8
+2317,鴻海,xgboost,成功,2317_xgboost_model.pkl,0.07,11.0
+2317,鴻海,catboost,成功,2317_catboost_model.pkl,0.02,22.3
+2317,鴻海,rf,成功,2317_rf_model.pkl,0.23,25.4
+2317,鴻海,tft,成功,2317_tft_model.pkl,0.0,94.9
