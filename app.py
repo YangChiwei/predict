@@ -12,7 +12,7 @@ page_pipeline = st.Page("pipeline_page.py", title="量化流水線管理", icon=
 page_benchmark = st.Page("benchmark_page.py", title="多模型評比", icon="🏆")
 
 # 2. 設定側邊欄的選單順序
-pg = st.navigation([page_dashboard, page_pipeline, page_benchmark])
-
+#pg = st.navigation([page_dashboard, page_pipeline, page_benchmark])
+pg = st.navigation([page_dashboard)
 # 3. 啟動渲染
 pg.run()
