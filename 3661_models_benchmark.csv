@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+3661,世芯-KY,lightgbm,成功,3661_lightgbm_model.pkl,0.17,9.9
+3661,世芯-KY,xgboost,成功,3661_xgboost_model.pkl,0.16,11.3
+3661,世芯-KY,catboost,成功,3661_catboost_model.pkl,0.03,22.5
+3661,世芯-KY,rf,成功,3661_rf_model.pkl,0.1,23.6
+3661,世芯-KY,tft,成功,3661_tft_model.pkl,0.0,92.4

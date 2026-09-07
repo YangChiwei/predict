@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+3034,聯詠,lightgbm,成功,3034_lightgbm_model.pkl,0.04,10.5
+3034,聯詠,xgboost,成功,3034_xgboost_model.pkl,0.1,11.6
+3034,聯詠,catboost,成功,3034_catboost_model.pkl,0.05,25.9
+3034,聯詠,rf,成功,3034_rf_model.pkl,0.29,26.0
+3034,聯詠,tft,成功,3034_tft_model.pkl,0.0,86.0

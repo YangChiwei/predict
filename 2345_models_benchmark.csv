@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+2345,智邦,lightgbm,成功,2345_lightgbm_model.pkl,0.05,10.6
+2345,智邦,xgboost,成功,2345_xgboost_model.pkl,0.1,11.7
+2345,智邦,catboost,成功,2345_catboost_model.pkl,0.03,23.0
+2345,智邦,rf,成功,2345_rf_model.pkl,0.49,27.9
+2345,智邦,tft,成功,2345_tft_model.pkl,0.0,94.0

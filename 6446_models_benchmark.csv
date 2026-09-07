@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+6446,藥華藥,lightgbm,成功,6446_lightgbm_model.pkl,0.04,9.7
+6446,藥華藥,xgboost,成功,6446_xgboost_model.pkl,0.07,10.9
+6446,藥華藥,catboost,成功,6446_catboost_model.pkl,0.02,21.6
+6446,藥華藥,rf,成功,6446_rf_model.pkl,0.21,24.9
+6446,藥華藥,tft,成功,6446_tft_model.pkl,0.0,92.2

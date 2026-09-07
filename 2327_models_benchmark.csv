@@ -1,0 +1,6 @@
+﻿股票代號,股票名稱,模型架構,訓練狀態,產出模型檔,模型大小 (MB),耗時 (秒)
+2327,國巨,lightgbm,成功,2327_lightgbm_model.pkl,0.09,9.8
+2327,國巨,xgboost,成功,2327_xgboost_model.pkl,0.06,11.0
+2327,國巨,catboost,成功,2327_catboost_model.pkl,0.02,21.6
+2327,國巨,rf,成功,2327_rf_model.pkl,0.61,27.2
+2327,國巨,tft,成功,2327_tft_model.pkl,0.0,72.2
