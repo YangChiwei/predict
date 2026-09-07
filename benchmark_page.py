@@ -84,8 +84,9 @@ if btn_run:
 st.markdown("---")
 col_src1, col_src2 = st.columns([2, 1])
 
-# 搜尋本機所有的 _models_benchmark.csv
-csv_files = sorted(glob.glob("*_models_benchmark.csv"), reverse=True)
+# 搜尋本機所有的 benchmark_results_*.csv
+csv_files = sorted(glob.glob("benchmark_results_*.csv"), reverse=True)
+
 
 selected_file = col_src1.selectbox(
     "📁 選擇評比歷史紀錄 CSV 檔案：",
