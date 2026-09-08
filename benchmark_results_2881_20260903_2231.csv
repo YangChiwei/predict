@@ -1,5 +1,0 @@
-﻿Stock_ID,Model,Best_Threshold,Test_AUC,Val_AUC,Val_Accuracy,Test_Accuracy,Overfit_Gap,Test_Precision_BUY,Test_Recall_BUY,Test_F1_BUY,Test_Signals_Total,True_Positives,Elapsed_Sec,Status
-2881,XGBOOST,0.145,0.5105,0.5286,0.5611,0.5594,0.0016,0.53,0.82,0.65,260,139,4.6,Success
-2881,RF,0.2138,0.4917,0.5157,0.5573,0.542,0.0152,0.53,0.72,0.61,234,123,48.4,Success
-2881,LIGHTGBM,0.1495,0.5192,0.5627,0.5496,0.487,0.0627,0.49,0.98,0.65,341,167,2.4,Success
-2881,CATBOOST,0.4229,0.532,0.5734,0.584,0.4696,0.1144,0.46,0.46,0.46,171,79,27.9,Success

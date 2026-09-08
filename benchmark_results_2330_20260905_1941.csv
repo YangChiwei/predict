@@ -1,6 +1,0 @@
-﻿Stock_ID,Model,Best_Threshold,Test_AUC,Val_AUC,Val_Accuracy,Test_Accuracy,Overfit_Gap,Test_Precision_BUY,Test_Recall_BUY,Test_F1_BUY,Test_Signals_Total,True_Positives,Elapsed_Sec,Status
-2330,CATBOOST,0.4224,0.7123,0.4355,0.4733,0.5877,-0.1145,0.56,0.98,0.72,331,186,3.8,Success
-2330,RF,0.4393,0.3233,0.5563,0.5992,0.3983,0.2009,0.45,0.58,0.5,247,110,7.7,Success
-2330,LIGHTGBM,0.4496,0.3109,0.5616,0.6107,0.376,0.2346,0.38,0.3,0.34,149,57,0.5,Success
-2330,XGBOOST,0.4858,0.2925,0.5694,0.626,0.3538,0.2722,0.36,0.3,0.33,155,56,0.8,Success
-2330,TFT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,"Failed: Found input variables with inconsistent numbers of samples: [262, 232]"
