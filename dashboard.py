@@ -930,7 +930,7 @@ with tab_main:
         )
 
         fee_text = "(手續費+證交稅)" if fee_discount >= 10.0 else f"({fee_discount:.1f}折手續費+證交稅)"
-        st.markdown(f"###### 💰 淨損益統計 (每筆投入約 {trade_capital_wan:.0f} 萬, {fee_text})")
+        st.markdown(f"###### 💰 淨損益統計 (本金約 {trade_capital_wan:.0f} 萬, {fee_text})")
 
         loss_trades_count = total_trades_count - win_trades_count
         if total_trades_count > 0:
